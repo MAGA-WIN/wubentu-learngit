@@ -4,3 +4,5 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }---code
+---ubuntu username record :mingguang
+---ubuntu password record :guangming
